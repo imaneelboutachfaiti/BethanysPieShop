@@ -10,7 +10,6 @@ C:\Ldev\BethanysPieShop\BethanysPieShop\bin\Debug\netcoreapp3.1\BethanysPieShop.
 C:\Ldev\BethanysPieShop\BethanysPieShop\bin\Debug\netcoreapp3.1\BethanysPieShop.pdb
 C:\Ldev\BethanysPieShop\BethanysPieShop\bin\Debug\netcoreapp3.1\BethanysPieShop.Views.dll
 C:\Ldev\BethanysPieShop\BethanysPieShop\bin\Debug\netcoreapp3.1\BethanysPieShop.Views.pdb
-C:\Ldev\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.1\BethanysPieShop.csprojAssemblyReference.cache
 C:\Ldev\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.1\BethanysPieShop.RazorAssemblyInfo.cache
 C:\Ldev\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.1\BethanysPieShop.RazorAssemblyInfo.cs
 C:\Ldev\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.1\BethanysPieShop.AssemblyInfoInputs.cache
@@ -139,3 +138,11 @@ C:\Ldev\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.1\BethanysPieShop.
 C:\Ldev\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.1\BethanysPieShop.MvcApplicationPartsAssemblyInfo.cache
 C:\Ldev\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.1\Razor\Views\Pie\Details.cshtml.g.cs
 C:\Ldev\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_PieCard.cshtml.g.cs
+C:\Ldev\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.1\Razor\Views\Order\Checkout.cshtml.g.cs
+C:\Ldev\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.1\Razor\Views\Order\CheckoutComplete.cshtml.g.cs
+C:\Ldev\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.1\Razor\Views\ShoppingCart\Index.cshtml.g.cs
+C:\Ldev\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Ldev\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\CategoryMenu\Default.cshtml.g.cs
+C:\Ldev\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\ShoppingCartSummary\Default.cshtml.g.cs
+C:\Ldev\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Carousel.cshtml.g.cs
+C:\Ldev\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.1\BethanysPieShop.csprojAssemblyReference.cache
