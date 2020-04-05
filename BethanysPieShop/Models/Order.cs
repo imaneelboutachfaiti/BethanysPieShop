@@ -27,7 +27,7 @@ namespace BethanysPieShop.Models
         [Display(Name = "Adress line 1")]
         public string AdresseLine1 { get; set; }
 
-        [Display(Name = "Adress line 1")]
+        [Display(Name = "Adress line 2")]
         public string AdresseLine2 { get; set; }
 
         [Required(ErrorMessage = "Please enter your zip code")]
